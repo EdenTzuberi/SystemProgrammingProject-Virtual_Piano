@@ -10,9 +10,6 @@
 
 #define SIZE 100
 
-// Sagi Barazani 206780314
-// Eden Tzuberi  208945543
-
 static int panelHandle;
 
 int COM = 4;   // Communication port.
