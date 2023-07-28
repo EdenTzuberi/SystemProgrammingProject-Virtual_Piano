@@ -15,6 +15,8 @@ Additional features:
 - You can send the recorded file for printing and print the musical notes.
 - You can load a txt file containing musical notes into the software for playing.
 
+* I've downloaded the audio from https://freesound.org/ 
+
 
 arduino circuit:
 
