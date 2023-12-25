@@ -5,7 +5,7 @@ In the project, there are both hardware and software parts.
 In the hardware part, we built a piano with 8 pushbuttons and LEDs connected to an Arduino Nano. 
 Each button press will light up its corresponding LED, according to the order of the buttons.
 After programming the Arduino controller, you can connect it to the software using the RS-232 protocol. 
-Every time a specific button is pressed, the corresponding character will be played, and the character will be written to a txt file.
+Every time a specific button is pressed, the corresponding note will be played, and the note will be written to a txt file.
 You can operate the file from within our software and play what was previously played through the Arduino.
 
 Additional features:
