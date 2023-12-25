@@ -1,8 +1,8 @@
 # SystemProgrammingProject-Virtual_Piano
 This is my system programming final project: Virtual Piano.
 
-In the project, there are both hardware and software parts. 
-In the hardware part, we built a piano with 8 pushbuttons and LEDs connected to an Arduino Nano. 
+The project includes both hardware and software components.
+In the hardware segment, we built a piano with 8 pushbuttons and LEDs connected to an Arduino Nano. 
 Each button press will light up its corresponding LED, according to the order of the buttons.
 After programming the Arduino controller, you can connect it to the software using the RS-232 protocol. 
 Every time a specific button is pressed, the corresponding note will be played, and the note will be written to a txt file.
